@@ -1,0 +1,35 @@
+{
+  "author" : "zeroheight",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "toggleZeroheight",
+      "shortcut": "ctrl cmd z",
+      "name" : "Show/Hide zeroheight",
+      "identifier" : "zeroheighttogglePanel"
+    },
+    {
+      "script" : "script.cocoascript",
+      "handlers" : {
+        "actions" : {
+          "Startup" : "onStartup",
+          "OpenDocument":"onOpenDocument",
+          "SelectionChanged.finish" : "onSelectionChanged"
+        }
+      }
+    }
+  ],
+  "menu":
+  {
+    "title": "zeroheight",
+    "isRoot": true,
+    "items": [
+      "zeroheighttogglePanel"
+    ]
+  },
+  "identifier" : "com.zeroheight.sketch",
+  "version" : "1.8",
+  "description" : "✨ magical gateway to zeroheightland ✨",
+  "authorEmail" : "support@zeroheight.com",
+  "name" : "zeroheight 🐼"
+}
