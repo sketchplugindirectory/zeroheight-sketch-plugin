@@ -4,8 +4,8 @@
     {
       "script" : "script.cocoascript",
       "handler" : "toggleZeroheight",
-      "shortcut": "ctrl cmd z",
-      "name" : "Show/Hide zeroheight",
+      "shortcut": "ctrl e",
+      "name" : "expand / collapse",
       "identifier" : "zeroheighttogglePanel"
     },
     {
@@ -22,14 +22,14 @@
   "menu":
   {
     "title": "zeroheight",
-    "isRoot": true,
+    "isRoot": false,
     "items": [
       "zeroheighttogglePanel"
     ]
   },
   "identifier" : "com.zeroheight.sketch",
-  "version" : "1.8",
-  "description" : "✨ magical gateway to zeroheightland ✨",
+  "version" : "1.4.0",
+  "description" : "come with us on a magical journey to zeroheightland, where the grass is green and the designs are pretty ✨",
   "authorEmail" : "support@zeroheight.com",
-  "name" : "zeroheight 🐼"
+  "name" : "zeroheight"
 }

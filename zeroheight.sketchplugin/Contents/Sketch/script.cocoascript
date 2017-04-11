@@ -1,18 +1,18 @@
 // thanks for stopping by to look at our code :]
 // we love you, nosy nellie <3
 
-// ACTIONS 
+// ACTIONS
 var onStartup = function(context) {
     coscript.setShouldKeepAround(false);
 
     // print a little message about which version is starting
     var version = context.plugin.version();
     log('zeroheight ' + version + ' started 🐼');
-    
+
     // init the plugin
     if (loadFrameworks(context)) {
-        var toggleSpecifier = [[MSPluginCommandSpecifier alloc] 
-             initWithPluginBundleIdentifier:'com.zeroheight.sketch' 
+        var toggleSpecifier = [[MSPluginCommandSpecifier alloc]
+             initWithPluginBundleIdentifier:'com.zeroheight.sketch'
              commandIdentifier:'zeroheighttogglePanel']
 
         [[ZeroheightSketch sharedInstance] start:context toggleSpecifier:toggleSpecifier];
