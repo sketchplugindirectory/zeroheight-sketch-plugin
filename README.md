@@ -9,10 +9,6 @@ It's easy to add and use components from Sketch, then jump over to the website t
 * unzip + double click on zeroheight.sketchplugin
 * open a Sketch document and zeroheight should open bottom right
 
-OR
-
-[![Install zeroheight with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install zeroheight with Sketchpacks")](https://sketchpacks.com/zeroheight/zeroheight-sketch-plugin/install)
-
 ![download sketch](https://zeroheight.com/images/zhapp/onboarding/download_sketch.png)
 
 ## Help! Something isn't working
