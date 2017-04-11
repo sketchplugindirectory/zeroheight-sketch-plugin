@@ -1,3 +1,3 @@
-# Sketch plugin for zeroheight
+# zeroheight - Sketch plugin
 
-Installing this will grant you access to the best ride of your life 👌
+zeroheight is the best way to collaborate on a design library. It's easy to add and use components from Sketch, then jump over to the website to do some more organising & view (and share) your automatically up-to-date styleguide. Head to https://www.zeroheight.com to read more.
