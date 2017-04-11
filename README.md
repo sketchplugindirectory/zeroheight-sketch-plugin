@@ -1,5 +1,4 @@
 ![logo](https://zeroheight.com/images/zhapp/full-logo-350.png)
-### Sketch plugin
 
 zeroheight is the best way to collaborate on a design library. 
 
