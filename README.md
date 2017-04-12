@@ -19,4 +19,4 @@ It's easy to add and use components from Sketch, then jump over to the website t
 
 ## Help! Something isn't working
 
-Email hello at zeroheight.com
+Email hello&zeroheight.com but use an @!
