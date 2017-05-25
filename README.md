@@ -8,7 +8,7 @@ It's easy to add and use components from Sketch, then jump over to the website t
 
 
 ### Manual
-* [Download](https://github.com/zeroheight/zeroheight-sketch-plugin/releases/download/1.4.1/zeroheight_sketchplugin.zip)
+* [Download](https://github.com/zeroheight/zeroheight-sketch-plugin/releases/download/1.5.3/zeroheight_sketchplugin.zip)
 * unzip + double click on zeroheight.sketchplugin
 * open a Sketch document and zeroheight should open bottom right
 
