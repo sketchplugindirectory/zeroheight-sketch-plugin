@@ -1,5 +1,7 @@
 ![logo](https://zeroheight.com/images/zhapp/full-logo-350.png) <img height="70" src="https://zeroheight.com/images/zhapp/onboarding/download_sketch.png" />
 
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.zeroheight.sketch/version.svg)](https://api.sketchpacks.com/v1/plugins/com.zeroheight.sketch/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.zeroheight.sketch/compatibility.svg)](https://sketchpacks.com/zeroheight/zeroheight-sketch-plugin)
+
 zeroheight is the best way to collaborate on design libraries. 
 
 It's easy to add and use components from Sketch, then jump over to the website to do some more organising and share your automatically up-to-date styleguide. Learn more at https://zeroheight.com
